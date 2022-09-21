@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 <div class="outer-wrap">
 <Header />
 <MainContent />
-<Footer />
+<Footer /> 
 </div>
 </>
   )

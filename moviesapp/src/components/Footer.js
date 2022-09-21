@@ -2,9 +2,9 @@ import React from 'react';
 
  const Footer = () => {
   return (
-    <Footer class="site-footer">
+    <div class="footer" >
     all rights are reserved Haroon Ahmed! | UDEMY
-</Footer>
+</div>
   )
  }
  export default Footer;
